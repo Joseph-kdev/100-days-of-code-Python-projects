@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# 100-days-of-code-Python-projects
-Little projects I built while learning python.
-=======
+
 ## Rock Paper Scissors
 
 # Instructions
